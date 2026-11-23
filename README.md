@@ -4,3 +4,5 @@ project 2 voor linear algebra and optimization for machine learning
 Sap Sap nog sAP
 
 kaas kaas
+
+opdracht 2
